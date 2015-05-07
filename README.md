@@ -1,2 +1,3 @@
-# tim-inacc-tst-prg
-Test Programs for Evaluating Timing Inaccuracies in Simulations
+# Test Programs for Evaluating Timing Inaccuracies in Simulations
+
+Correspond to an article (to be) submitted...
